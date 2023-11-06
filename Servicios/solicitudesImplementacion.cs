@@ -8,6 +8,11 @@ namespace ejercicioBucles5Obligatorio.Servicios
 {
     internal class solicitudesImplementacion : solicitudesInterfaz
     {
+        /// <summary>
+        /// metodo que pide por consola el numero del mes para introducir
+        /// <author>06112023 -ilp </author>
+        /// </summary>
+        /// <returns></returns>
         public int numeroMes()
         {
             int numeroMes;
@@ -20,7 +25,11 @@ namespace ejercicioBucles5Obligatorio.Servicios
             return numeroMes;
 
         }
-
+        /// <summary>
+        /// metodo que pide por consola el numero del mes para introducir
+        /// <author>06112023 -ilp </author>
+        /// </summary>
+        /// <returns></returns>
         public int numeroAño() 
         {
             int numeroAño;
