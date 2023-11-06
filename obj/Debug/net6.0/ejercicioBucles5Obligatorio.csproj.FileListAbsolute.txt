@@ -1,0 +1,14 @@
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioBucles5Obligatorio\bin\Debug\net6.0\ejercicioBucles5Obligatorio.exe
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioBucles5Obligatorio\bin\Debug\net6.0\ejercicioBucles5Obligatorio.deps.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioBucles5Obligatorio\bin\Debug\net6.0\ejercicioBucles5Obligatorio.runtimeconfig.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioBucles5Obligatorio\bin\Debug\net6.0\ejercicioBucles5Obligatorio.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioBucles5Obligatorio\bin\Debug\net6.0\ejercicioBucles5Obligatorio.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioBucles5Obligatorio\obj\Debug\net6.0\ejercicioBucles5Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioBucles5Obligatorio\obj\Debug\net6.0\ejercicioBucles5Obligatorio.AssemblyInfoInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioBucles5Obligatorio\obj\Debug\net6.0\ejercicioBucles5Obligatorio.AssemblyInfo.cs
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioBucles5Obligatorio\obj\Debug\net6.0\ejercicioBucles5Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioBucles5Obligatorio\obj\Debug\net6.0\ejercicioBucles5Obligatorio.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioBucles5Obligatorio\obj\Debug\net6.0\refint\ejercicioBucles5Obligatorio.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioBucles5Obligatorio\obj\Debug\net6.0\ejercicioBucles5Obligatorio.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioBucles5Obligatorio\obj\Debug\net6.0\ejercicioBucles5Obligatorio.genruntimeconfig.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicioBucles5Obligatorio\obj\Debug\net6.0\ref\ejercicioBucles5Obligatorio.dll
